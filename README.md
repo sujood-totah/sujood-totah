@@ -1,24 +1,27 @@
 # Hi there, I'm Sujood Totah 👋
 
-🎓 Third-Year Software Engineering Student at Azrieli College of Engineering Jerusalem.
+🎓 Third-Year Software Engineering Student at Azrieli College of Engineering Jerusalem
 
-💻 Passionate about Operating Systems, Backend Development, Linux, and Full-Stack Web Development.
+💻 Passionate about **Operating Systems**, **Backend Development**, **Linux**, and **Full-Stack Web Development**.
+
+🌱 Currently looking for **Software Engineering Internship** opportunities.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. in Software Engineering
+- 🎓 B.Sc. in Software Engineering (Expected Graduation: August 2027)
 - 📍 Jerusalem, Israel
 - 💡 Interested in Operating Systems, Backend Engineering, and Web Applications
-- 🌱 Currently learning advanced System Programming, Networking, and Machine Learning
-- 🤝 Open to Software Engineering Internship opportunities
+- ⚡ Enjoy building systems using C, Linux, Networking, and modern web technologies
+- 🤝 Open to internships and collaboration opportunities
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Technologies
 
 ### Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,9 +33,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Platforms
+### Systems & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,9 +48,10 @@
 
 ## 🖥️ Operating Systems Project
 
-A multi-process shortest path simulator developed in C on Linux.
+A multi-process shortest path simulator developed in **C on Linux**.
 
-### Features:
+### Features
+
 - Processes using `fork()`
 - Inter-Process Communication (IPC)
 - Pipes
@@ -60,14 +64,14 @@ A multi-process shortest path simulator developed in C on Linux.
 
 ## 🌿 Kehila 2026 – Mata Yehuda
 
-A community management website developed using React and Firebase.
+Community management platform developed using **React** and **Firebase**.
 
-### Features:
+### Features
+
 - Staff Dashboard
 - Activity Management
-- Participant Management
-- Registration System
-- Notification System
+- Participant Registration
+- Notifications System
 - Donations Management
 - Day Center Schedule Management
 
@@ -77,8 +81,9 @@ A community management website developed using React and Firebase.
 
 Implementation of an HTTP/1.0 Web Server.
 
-### Features:
-- GET requests
+### Features
+
+- GET Requests
 - Thread Pool
 - Directory Listing
 - MIME Types
@@ -91,17 +96,18 @@ Implementation of an HTTP/1.0 Web Server.
 
 A team project for document analysis and visualization.
 
-### Features:
-- TF-IDF from scratch
-- PCA and SVD visualization
+### Features
+
+- TF-IDF implementation from scratch
+- PCA & SVD visualization
 - Interactive plots
 - Top terms extraction
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Sujood's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujood-totah&show_icons=true)
+![Sujood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujood-totah&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujood-totah&layout=compact)
 
@@ -109,12 +115,12 @@ A team project for document analysis and visualization.
 
 ## 📫 Contact Me
 
-📧 Email: sojoud.totah04@gmail.com
+📧 **Email:** sojoud.totah04@gmail.com
 
-💼 LinkedIn:
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/sujood-totah-55871a35a/
 
-🐙 GitHub:
+🐙 **GitHub:**  
 https://github.com/sujood-totah
 
 ---
